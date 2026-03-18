@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# 数据集文件（如果太大可以不提交）
+Four kinds of D{0-1}KP instances/
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*~
+
+# IDE配置
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 实验结果
+*_result.txt
+*_result.xlsx
+*.png
+
+# 系统文件
+Thumbs.db
+.DS_Store
